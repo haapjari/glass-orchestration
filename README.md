@@ -40,8 +40,9 @@ Project is called `glass`, because I's like magnifying glass to open-source repo
 
 ### How-To: Run
 
-- This guide will walk you through the steps to clone, build, and run the Glass application components using Docker Compose. This process involves cloning the necessary repositories, building Docker images for each component, and running the services using Docker Compose.
-Prerequisites
+- This guide will walk you through the steps to clone, build, and run the `glass` application components using `docker-compose.yml`. This process involves cloning the necessary repositories, building DOcker Images for each component, and running the services using `docker-compose.yml`. This could be done with docker registry, but I opted not to use public registry, and instead just rely on versioning GitHub repositories. 
+
+#### Prerequisites
 
 - Before you begin, ensure you have the following installed on your system:
 
